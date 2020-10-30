@@ -10,12 +10,7 @@ Toontown Version Checker is a simple way to check your Toontown
 - Toontown Rewritten TTRGame.vlt
 
 # 🖍 Usage
-
-## 💻 Windows
-TBA
-
-## 🐧 Linux
-TBA
+Drag your file of choice into the directory of Toontown Version Checker. Then run the python script according to your filetype. For Configrc.exe's you additionally need the MSVCP.dll's and the libdtool.dll
 
 [discordImg]: https://img.shields.io/discord/671902942466408478.svg?logo=discord&logoWidth=18&colorB=7289DA&style=for-the-badge
 [discordLink]: https://discord.gg/F55qYKm
