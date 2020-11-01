@@ -7,5 +7,5 @@
 # =============================================================================
 vlt = open('TTRGame.vlt', 'r', encoding="iso-8859-15")
 config = vlt.read()
-config = config[99:118].split()[0]
+config = config[99:120].split()[0]
 print(config)

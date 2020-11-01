@@ -1,0 +1,12 @@
+#Version File
+Configrc.exe
+Configrc.prc
+Configrc.pre
+TTRGame.vlt
+
+#Dlls
+libdtool.dll
+msvcp70.dll
+msvcp71.dll
+msvcr70.dll
+msvcr71.dll
