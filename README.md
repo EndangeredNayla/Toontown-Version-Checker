@@ -4,13 +4,20 @@
 Toontown Version Checker is a simple way to check your Toontown 
 
 # 🔌 Supports
-- Toontown Online Configrc.exes
-- Toontown Online Configrc.prcs
-- Toontown Online Configrc.pres
-- Toontown Rewritten TTRGame.vlt
+- Toontown Online Configrc.exe's
+- Toontown Online Configrc.prc's
+- Toontown Online Configrc.pre's
+- Toontown Rewritten TTRGame.vlt's
 
 # 🖍 Usage
-Drag your file of choice into the directory of Toontown Version Checker. Then run the python script according to your filetype. For Configrc.exe's you additionally need the MSVCP.dll's and the libdtool.dll
+Drag your file of choice into the directory of Toontown Version Checker. Then run the python script according to your filetype. 
+
+# 📝 Dependencies
+
+- Configrc.exe's: Configrc.exe's do not need any additional dependencies but do require the MSVCP.dll's and the libdtool.dll.
+- Configrc.pre's: Configrc.pre's require an installed copy of Panda3D. Any version will do.
+- Configrc.prc's: Configrc.prc's do not require any additional dependencies.
+- TTRGame.vlt's: TTRGame.vlt's do not require any additional dependencies.
 
 [discordImg]: https://img.shields.io/discord/671902942466408478.svg?logo=discord&logoWidth=18&colorB=7289DA&style=for-the-badge
 [discordLink]: https://discord.gg/F55qYKm
