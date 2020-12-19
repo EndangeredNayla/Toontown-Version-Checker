@@ -14,10 +14,10 @@ Drag your file of choice into the directory of Toontown Version Checker. Then ru
 
 # 📝 Dependencies
 
-- Configrc.exe's: Configrc.exe's do not need any additional dependencies but do require the MSVCP.dll's and the libdtool.dll.
-- Configrc.pre's: Configrc.pre's require an installed copy of Panda3D. Any version will do.
-- Configrc.prc's: Configrc.prc's do not require any additional dependencies.
-- TTRGame.vlt's: TTRGame.vlt's do not require any additional dependencies.
+- Configrc.exe's: The **libdtool.dll**, **msvcp.dll**, and the **msvcr.dll** from the original client.
+- Configrc.pre's: Any version of Panda3D
+- Configrc.prc's: No additional dependencies required
+- TTRGame.vlt's: No additional dependencies required
 
 [discordImg]: https://img.shields.io/discord/671902942466408478.svg?logo=discord&logoWidth=18&colorB=7289DA&style=for-the-badge
 [discordLink]: https://discord.gg/F55qYKm
